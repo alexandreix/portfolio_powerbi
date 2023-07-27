@@ -5,10 +5,10 @@
 
 ## 📊 Portfólio Power BI
 Dashboards apresentados:
-- Vendas
-- Produção
-- RH
-- Financeiro
+- [ ] Vendas
+- [ ] Produção
+- [ ] RH
+- [ ] Financeiro
 
 ## 🚀 Tecnologias
 
