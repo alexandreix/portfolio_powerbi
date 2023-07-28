@@ -18,7 +18,7 @@ Dashboards apresentados:
 Os dados apresentados são fictícios, criados para estudo.
 
 <div align="center">
-  <small> Desenvolvido por Alexandre Rodrigues - Julho 2023</small>
+  <small> 2023 © Desenvolvido por <strong>Alexandre Rodrigues</strong></small>
 
   [![Linkedin Badge](https://img.shields.io/badge/-Alexandre%20Rodrigues-0081d2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandrerodriguesd/)](https://www.linkedin.com/in/alexandrerodriguesd/) 
 </div>
